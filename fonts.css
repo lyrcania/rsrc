@@ -1,0 +1,101 @@
+/* Fonts served via jsDelivr from https://github.com/lyrcania/rsrc (main branch) */
+
+/* ---------- Kalice ---------- */
+
+@font-face {
+  font-family: 'Kalice';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kalice';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-Italic.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kalice';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kalice';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Kalice';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-BoldItalic.woff2') format('woff2');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* ---------- Romie ---------- */
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-Light.woff2') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-LightItalic.woff2') format('woff2');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-Regular_fffb536a-9764-4142-8d5c-280676906a2c.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-Italic_97dd4a70-26af-44cd-9fa6-aed4b7047e28.woff2') format('woff2');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-MediumItalic.woff2') format('woff2');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Romie';
+  src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Romie-Bold_382e1c63-27de-45e6-9540-fb437c9ea32a.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
