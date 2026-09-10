@@ -18,6 +18,40 @@
   font-display: swap;
 }
 
+/* ---------- lyrcania-icons ---------- */
+
+@font-face {
+    font-family: 'lyrcania-icons';
+    src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/lyrcania-icons.woff') format('woff'),
+             url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/lyrcania-icons.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    font-family: 'lyrcania-icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-valdemara::before { content: "\e900"; } /* espada */
+.icon-alferra::before   { content: "\e901"; } /* martillo */
+.icon-morvasca::before  { content: "\e902"; } /* caliz */
+.icon-cendra::before    { content: "\e903"; } /* serpiente */
+.icon-duvania::before   { content: "\e904"; } /* flor */
+.icon-lyra::before      { content: "\e905"; } /* sol */
+.icon-morcano::before   { content: "\e906"; } /* luna */
+.icon-dragon::before    { content: "\e907"; } /* dragon */
+.icon-corona::before    { content: "\e908"; } /* corona */
+.icon-allende::before   { content: "\e909"; } /* llama */
+
+
 @font-face {
   font-family: 'Kalice';
   src: url('https://cdn.jsdelivr.net/gh/lyrcania/rsrc@main/Kalice-Medium.woff2') format('woff2');
